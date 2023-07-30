@@ -1,4 +1,4 @@
-![image](https://github.com/Javid-Husain/Javid-Husain/assets/88919222/ee6058e9-8225-41e3-a973-a6a55f7b3ce9)
+![image](https://github.com/Javid-Husain/Javid-Husain/assets/88919222/0bc57efa-b44d-4784-ac13-be7d216db131)
 
 
 ### Hi there 👋
