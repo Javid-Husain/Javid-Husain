@@ -11,7 +11,7 @@
 <hr>
 <hr>
 
-- **a web developer fluent in Flutter and Android. Crafting seamless experiences and pixel-perfect designs is my passion. Let's build something awesome together! **
+- a web developer fluent in Flutter and Android. Crafting seamless experiences and pixel-perfect designs is my passion. Let's build something awesome together! **
 
 - 📄 Here is my [Resume](https://drive.google.com/file/d/1DUdXJdbJHnRLv-9PX-Ai9FQhQsM3jY6Y/view?usp=drive_link)
 
