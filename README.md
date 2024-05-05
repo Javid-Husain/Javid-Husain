@@ -31,8 +31,9 @@
     <a href="https://leetcode.com/javid219/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/> </a>
     <a href="https://www.instagram.com/im_mdjavid/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" alt="instagram" width="40" height="40"/></a>
     <a href="https://.com/JavidHusain1786" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" alt="twitter" width="40" height="40"/></a>
+    
     <h5 align="center">Or mail me</h5>
-    <h4 align="center" color="blue">shubham20245@iiitd.ac.in</h4></a>
+    <h4 align="center" color="blue">javid20219@iiitd.ac.in</h4></a>
 </p>
 
 <hr>
