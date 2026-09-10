@@ -593,14 +593,14 @@
 <!--                  CONTRIBUTION GRAPH                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<!-- <h2 align="center">🐍 Contribution Graph</h2>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
   />
-</p>
+</p> -->
 
 <hr>
 
@@ -608,7 +608,7 @@
 <!--                     LEETCODE                              -->
 <!-- ========================================================= -->
 
-<h2 align="center">💻 Competitive Programming</h2>
+<!-- <h2 align="center">💻 Competitive Programming</h2>
 
 <p align="center">
   <a href="https://leetcode.com/javid219/" target="_blank">
@@ -622,7 +622,7 @@
 <p align="center">
   Currently strengthening my problem-solving skills through
   <b>Data Structures & Algorithms</b>.
-</p>
+</p> -->
 
 <hr>
 
